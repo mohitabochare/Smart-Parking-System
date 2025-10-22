@@ -62,12 +62,7 @@ javac *.java
  ```
 
 
-## 📬 Contact
 
-- 📧 [suggalasaicharan789@gmail.com](mailto:suggalasaicharan789@gmail.com)
-- 💼 [https://www.linkedin.com/in/saicharansuggala/](https://www.linkedin.com/in/saicharansuggala/)
-- 🐙 [https://github.com/CharanSuggala26](https://github.com/CharanSuggala26)
-- 🌐 [https://my-portfolio-lovat-six-79.vercel.app/](https://my-portfolio-lovat-six-79.vercel.app/)
 
 
 
